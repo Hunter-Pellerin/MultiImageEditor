@@ -1,4 +1,4 @@
-#!/home/hpellerin/Documents/Programming/Pyaint/bin/python3
+#!/home/hpellerin/git/MultiImageEditor/bin/python3
 #
 #
 # Library to extract Exif information from digital camera image files.

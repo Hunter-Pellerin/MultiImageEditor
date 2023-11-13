@@ -17,7 +17,7 @@ class MainWindow(ctk.CTk):
 	
 		ctk.set_appearance_mode('System')
 		self.geometry('1280x800+50+50')
-		self.title('Pyaint Photo Editor')
+		self.title('Multi Image Editor')
 		self.DefaultImageEffects()
 
 		# Window Layout
